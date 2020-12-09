@@ -1,0 +1,5 @@
+# Lib
+node_modules/
+
+# IDE
+.idea/

@@ -1,0 +1,18 @@
+{
+  "name": "010gift",
+  "version": "1.0.0",
+  "description": "010gift",
+  "main": "index.js",
+  "dependencies": {
+    "vuepress": "^1.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "lint-md-cli": "^0.1.2",
+    "prettier": "^1.19.1"
+  },
+  "scripts": {
+    "lint": "lint-md .",
+    "dev": "vuepress dev docs"
+  }
+}
